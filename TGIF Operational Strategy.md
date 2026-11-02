@@ -147,4 +147,4 @@ Until both gaps are closed, this remains a vision, not yet an operational archit
 
 ---
 
-Samet Bakar | Supply Chain & Operations | APICS/CSCP | September 2026
+Samet Bakar | Supply Chain & Operations | September 2026
