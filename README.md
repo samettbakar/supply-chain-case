@@ -27,4 +27,4 @@ The documents describe planning scenarios and assumptions. Their figures should 
 
 ## Author
 
-Samet Bakar
+Samet Bakar · [Portfolio](https://samettbakar.github.io) · [GitHub](https://github.com/samettbakar)
