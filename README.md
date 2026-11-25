@@ -17,10 +17,6 @@ A womenswear planner needs to align price, assortment, production capacity and s
 - [Brand X womenswear planning case](brand-x-dtc-womenswear.md)
 - [TGIF operations concept](tgif-operations.md)
 
-## Status
-
-Public
-
 ## Data
 
 All data is anonymized. The Brand X case uses public observations and sector assumptions. TGIF is a self-initiated concept with illustrative figures.
@@ -31,4 +27,4 @@ The documents describe planning scenarios and assumptions. Their figures should 
 
 ## Author
 
-Samet Bakar · AI Solutions Architect · [Portfolio](https://samettbakar.github.io) · [GitHub](https://github.com/samettbakar)
+Samet Bakar
