@@ -14,8 +14,8 @@ A womenswear planner needs to align price, assortment, production capacity and s
 
 ## Case documents
 
-- [Brand X womenswear planning case](Brand-X%20DTC%20Womenswear%20Strategy.md)
-- [TGIF operations concept](TGIF%20Operational%20Strategy.md)
+- [Brand X womenswear planning case](brand-x-dtc-womenswear.md)
+- [TGIF operations concept](tgif-operations.md)
 
 ## Status
 
